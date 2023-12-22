@@ -11,3 +11,5 @@ viapy: importable software routines (FPS, ETC) in Python, notebooks for science 
 viapipe: data reduction pipeline [PAC]
 
 viams: science analysis pipeline [PAC]
+
+docs: documentation [AB]
