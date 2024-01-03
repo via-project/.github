@@ -6,7 +6,9 @@
 
 .github: config files for GH organization [VC]
 
-viapy: importable software routines (FPS, ETC) in Python, notebooks for science forecasts and technical documentation [VC]
+sandbox: develop importable software routines (FPS, ETC) in Python, notebooks for science forecasts and technical documentation [VC]
+
+viapy: importable ETC and FPS software [VC]
 
 viapipe: data reduction pipeline [PAC]
 
