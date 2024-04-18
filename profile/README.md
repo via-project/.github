@@ -10,6 +10,8 @@
 
 [docs](https://github.com/via-project/docs): documentation [AB]
 
+[viactr](https://github.com/via-project/viactrl): control software [KM]
+
 viapy: importable ETC and FPS software [VC]
 
 viapipe: data reduction pipeline [PAC]
