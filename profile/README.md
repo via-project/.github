@@ -2,18 +2,24 @@
 
 [Project Website](https://via-project.org/)
 
-### Repository Overview
+## Repository Overview
 
-[.github](https://github.com/via-project/.github): config files for GH organization [VC]
+The techincal point of contact (TPOC) for each repository is indicated. 
 
-[sandbox](https://github.com/via-project/sandbox): develop importable software routines (FPS, ETC) in Python, notebooks for science forecasts and technical documentation [VC]
+### Instrument and Operations
 
-[docs](https://github.com/via-project/docs): documentation [AB]
+[.github](https://github.com/via-project/.github): config files for GH organization [Vedant]
 
-[viactrl](https://github.com/via-project/viactrl): control software [KM]
+[sandbox](https://github.com/via-project/sandbox): develop importable software routines (FPS, ETC) in Python, notebooks for science forecasts and technical documentation [Vedant]
 
-viapy: importable ETC and FPS software [VC]
+[docs](https://github.com/via-project/docs): documentation [Ana]
 
-viapipe: data reduction pipeline [PAC]
+[viactrl](https://github.com/via-project/viactrl): control software [Kyle]
 
-viams: science analysis pipeline [PAC]
+[vialab](https://github.com/via-project/vialab): code for lab testing [Abby]
+
+[viasim](https://github.com/via-project/viasim): simulate 1D ViaSpec spectra [Vedant]
+
+### Science
+
+[subhalos](https://github.com/via-project/subhalos): simulate stream-subhalo interactions via direct integration [Vedant]
