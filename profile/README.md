@@ -20,7 +20,7 @@ The technical point of contact (TPOC) for each repository is indicated.
 
 [vialab](https://github.com/via-project/vialab): code for lab testing [Abby]
 
-[viasim](https://github.com/via-project/viasim): simulate 1D ViaSpec spectra [Vedant]
+[viasim](https://github.com/via-project/viasim): simulate 1D and 2D ViaSpec spectra, model the survey [Vedant]
 
 
 ### Science
